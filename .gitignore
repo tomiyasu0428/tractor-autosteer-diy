@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*token*.json
+.local/
+private/
+data/
+logs/
+node_modules/
+__pycache__/
+*.pyc
+*.gcode
+*.gcode.3mf
