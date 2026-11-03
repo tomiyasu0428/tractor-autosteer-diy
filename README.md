@@ -20,6 +20,8 @@ ISEKI 95馬力トラクターに、AgOpenGPSとDCギアモーターによる自�
 | [購入・自作一覧](docs/bom.md) | 必要な部品、購入前の確認事項、調達状況 |
 | [製作の進め方](docs/roadmap.md) | 仕様確定、机上試験、車体取付、圃場試験 |
 | [判断の記録](docs/decisions.md) | 決定事項と検討中の選択肢 |
+| [プランA：有線LAN統合型](docs/proposals/plan-a-wired-lan.md) | 新規ISEKI95用の屋根バー＋隠蔽操舵箱案。未採用・未検証 |
+| [Codex評価](docs/proposals/plan-a-codex-review.md) / [Claude Code評価](docs/proposals/plan-a-claude-review.md) | 別々の技術評価、一次資料、評価間の相違点 |
 | [参考資料](docs/references.md) | 既存資料の扱いと公式情報へのリンク |
 | [共同作業の方法](CONTRIBUTING.md) | Issue、変更提案、購入・試験記録の残し方 |
 | [3Dモデルの管理](cad/README.md) | モデル追加時に記録する寸法・材質・検証結果 |
